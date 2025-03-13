@@ -10,6 +10,7 @@ DaisyPatch patch;
 float speed = 0.0f;
 static uint32_t t = 0;  
 static int formula_index = 0;  
+static const int formula_count = 6;  
 
 // Bytebeat formulas
 uint8_t BytebeatFormula(uint32_t t, int index) {
