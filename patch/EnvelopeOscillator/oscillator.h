@@ -1,4 +1,4 @@
-#pragma once
+#pragma once // include this header only once
 #include <stdint.h>
 #ifdef __cplusplus
 namespace EnvelopeOscillator
